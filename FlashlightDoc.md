@@ -47,11 +47,14 @@ For raw materials I used:
 
 I didn't take enough pictures of the raw materials but here are some i found:
 
-![Duct Tape](https://pixabay.com/photos/duct-tape-tape-adhesive-sticky-2202209/)
+![ducttaoe](https://user-images.githubusercontent.com/70911079/112929613-c8c28080-90e6-11eb-8574-916718e79e1c.jpg)
 
-![baggie](https://www.flickr.com/photos/sonnyandsandy/33707441)
+![plasticbag](https://user-images.githubusercontent.com/70911079/112929608-c6f8bd00-90e6-11eb-9692-acd7dd9185db.jpg)
 
-![hot glue](https://www.flickr.com/photos/30478819@N08/48640808613)
+![hotgluegun](https://user-images.githubusercontent.com/70911079/112929606-c5c79000-90e6-11eb-8b53-a459fcdc48e9.jpg)
+
+
+
 
 
 
