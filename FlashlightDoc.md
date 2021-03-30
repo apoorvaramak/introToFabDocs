@@ -51,11 +51,69 @@ I didn't take enough pictures of the raw materials but here are some i found:
 
 ![plasticbag](https://user-images.githubusercontent.com/70911079/112929608-c6f8bd00-90e6-11eb-9692-acd7dd9185db.jpg)
 
+
+<span style= "font-size:24px">**Process**</span>
+
+At first, I was trying to go with a circuit I created myself that I would just hide all the wiring into the petal body of the candle. 
+
+However, this proved difficult because I could not get the LED to light consistently. This is what I was trying to do with my breadboard
+
+after giving up on trying without it. 
+
+![Image-1](https://user-images.githubusercontent.com/70911079/112927827-995e4480-90e3-11eb-89f2-375aa03d5170.jpg)
+
+
+After I scrapped that idea, I just used a normal flashlight and tried to disassemble it to make it a shake flashlight. There were 
+
+a few different things I tried but I came across a problem in which the metal side and the metal spring had to both touch the end of the 
+
+flashlight, which didnt work with shaking based on how the flashlight was built because the bottom is slightly too big to just slip in,
+
+it needs to be screwed in. 
+
+Here's where I tried to attach the metal sides together so that shaking the piece would make the spring touch the metal end on the inside on the flashlight:
+
+![IMG_9427](https://user-images.githubusercontent.com/70911079/112927821-97948100-90e3-11eb-81b9-d88a1a49f5a5.jpg)
+
+After that, I tried to keep the flashlight whole and started to build around it instead. I used a cardboard tube to go around the flashlight and then duct taped
+
+over the whole thing to make it uniform. I had cardboard circles cut out that I used on top and below to close out the cardboard tube. To make the plastic flame, I cut
+
+off the corner of a plastic bad and bunched up the corners of the cut off end. Then, I put that into a hole I cut into the cardboard circle on top of the flashlight. 
+
+I covered all that in duct tape pictured here: 
+
+![IMG_9429](https://user-images.githubusercontent.com/70911079/112927819-96635400-90e3-11eb-822e-99a696c1cc9a.jpg)
+
+![IMG_9431](https://user-images.githubusercontent.com/70911079/112927815-95cabd80-90e3-11eb-828d-df5e0dd9cbd0.jpg)
+
+After that, I covered the sides with plastic box siding as I thought it looked more like white candle wax. To make it seem like candle was lit, I 
+
+added some hot glue down the sides to make it seem like dripping candle wax. 
+
+![IMG_9435](https://user-images.githubusercontent.com/70911079/112927811-94999080-90e3-11eb-86ac-36eea38bb74f.jpg)
+
+![IMG_9439](https://user-images.githubusercontent.com/70911079/112927806-92cfcd00-90e3-11eb-8b18-80ed245f1b84.jpg)
+
+
+
+<span style= "font-size:24px">**Tools**</span>
+
+The tools I used were: 
+
+* a hot glue gun
+* scissors
+* a paring knife
+
 ![hotgluegun](https://user-images.githubusercontent.com/70911079/112929606-c5c79000-90e6-11eb-8b53-a459fcdc48e9.jpg)
 
+<span style= "font-size:24px">**Final Product**</span>
 
+In the end, I created a candle that might not be the most techincally difficult, but something that I'm proud of given the trial and error that went into it. 
 
+Here are some pictures: 
 
+![IMG_9448](https://user-images.githubusercontent.com/70911079/112927800-906d7300-90e3-11eb-8fde-944022d9bb24.jpg)
 
-
+![IMG_9447](https://user-images.githubusercontent.com/70911079/112927802-919ea000-90e3-11eb-957c-286aba16420e.jpg)
 
