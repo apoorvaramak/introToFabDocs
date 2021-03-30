@@ -1,4 +1,4 @@
-<span style= "font-size:16px">**Inspiration**</span>
+<span style= "font-size:24px">**Inspiration**</span>
 
 At first I wanted to create a candle that looked like a Diwali candle, where the flame would be an LED.
 
@@ -17,7 +17,7 @@ which I didn't want. So, I scrapped that idea and went for a more traditional ca
 That way, I could use an actual flashlight and build around it.
 
 
-<span style= "font-size:16px">**Drawings**</span>
+<span style= "font-size:24px">**Drawings**</span>
 
 At first, when using the whole flashlight, I was thinking of pulling it apart and having it be something like a shake flashlight, 
 
@@ -32,4 +32,27 @@ That didn't work out with how my flashlight was laid out, so I decided to keep t
 I made the drawing for what my flashlight candle turned out to be here: 
 
 ![IMG_9449](https://user-images.githubusercontent.com/70911079/112928879-62892e00-90e5-11eb-9bcf-09cc181cf85a.jpg)
+
+
+<span style= "font-size:24px">**Raw Materials**</span>
+
+For raw materials I used:
+
+* cardboard
+* a flashlight
+* duct tape 
+* plastic packaging
+* hot glue
+* a plastic baggie
+
+I didn't take enough pictures of the raw materials but here are some i found:
+
+![Duct Tape](https://pixabay.com/photos/duct-tape-tape-adhesive-sticky-2202209/)
+
+![baggie](https://www.flickr.com/photos/sonnyandsandy/33707441)
+
+![hot glue](https://www.flickr.com/photos/30478819@N08/48640808613)
+
+
+
 
